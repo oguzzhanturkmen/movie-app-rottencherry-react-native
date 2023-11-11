@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 
-const apiKey = '41e467c96314188cd667403a3df5dddd'
+const apiKey = '<yourapikey>'
 const baseUrl = 'https://api.themoviedb.org/3'
 const trendingMoviesEndpoint = baseUrl + '/trending/movie/day?language=en-US&api_key=' + apiKey
 const upcomingMoviesEndpoint = baseUrl + '/movie/upcoming?language=en-US&page=1&api_key=' + apiKey
