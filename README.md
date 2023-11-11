@@ -1,1 +1,1 @@
-# movie-app-rottencherry-react-native
+# RottenCherry - Full Stack Movie App- React Native / Java Spring Boot
